@@ -106,6 +106,14 @@
     https://whatshub.top/rule/ChatGPT.list
 
 ## 3、Quantumult X 重写资源。
+- 小红书净化
+</span>
+
+    https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf
+- 喜马拉雅净化vip
+</span>
+
+    https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js
 - 知乎净化
 </span>
 
