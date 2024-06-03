@@ -178,6 +178,10 @@
 </span>
 
     https://raw.githubusercontent.com/WeiGiegie/666/main/zjzxg.js
+- 山丘阅读VIP
+</span>
+
+    https://raw.githubusercontent.com/chxm1023/Rewrite/main/shanqiuyuedu.js
 - 酷我音乐VIP
 </span>
 
