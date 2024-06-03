@@ -185,6 +185,10 @@
 - 酷我音乐VIP
 </span>
 
+    https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js
+- 酷我音乐净化
+</span>
+
     https://napi.ltd/script/Worker/KuWo.js
 - 读不舍手VIP
 </span>
