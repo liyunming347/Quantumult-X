@@ -178,6 +178,11 @@
 </span>
 
     https://raw.githubusercontent.com/WeiGiegie/666/main/zjzxg.js
+- 喜马拉雅净化VIP
+</span>
+
+    https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js
+
 - 山丘阅读VIP
 </span>
 
@@ -194,7 +199,16 @@
 </span>
 
     https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+- 山丘阅读VIP
+</span>
+
+    https://raw.githubusercontent.com/chxm1023/Rewrite/main/shanqiuyuedu.js
+
 - 韩小圈VIP
 </span>
 
     https://gist.githubusercontent.com/Yu9191/35453bcc1df1fd21febed34eb078c7e9/raw/Hanxiaoquan.sgmodules
+- 驾考宝典微信小程序净化VIP
+</span>
+
+    https://raw.githubusercontent.com/Yu9191/Rewrite/main/kjzbd.js
