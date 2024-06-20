@@ -181,7 +181,7 @@
 - 喜马拉雅净化VIP
 </span>
 
-    https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js
+    https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/XMLY/xmly.js
 
 - 山丘阅读VIP
 </span>
