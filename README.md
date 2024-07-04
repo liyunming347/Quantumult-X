@@ -25,6 +25,7 @@
 - dest-hash 随即调整负载均衡
 - url-latency-benchmark 自动测速-自动选择延迟低的节点
 
+**4、订阅地址后面添加#emoji=1可显示机场订阅国家图标**
 
 
 ## 2、Quantumult X 分流规则。
