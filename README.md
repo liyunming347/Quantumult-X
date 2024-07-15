@@ -83,6 +83,12 @@
     https://whatshub.top/rule/ChatGPT.list
 
 ## 3、Quantumult X 重写资源。
+
+- 夸克净化
+</span>
+
+    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QuarkBrowser_remove_ads.plugin
+
 - 小红书净化
 </span>
 
@@ -130,11 +136,11 @@
 - 微博净化
 </span>
 
-    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin
+    https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf
 - YouTube净化
 </span>
 
-    https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouTube_remove_ads.plugin
+    https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf
 - 百度地图净化
 </span>
 
@@ -151,6 +157,11 @@
 </span>
 
     https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
+- PicSeed破解vip
+</span>
+
+    https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js
+
 - 最美证件照VIP
 </span>
 
