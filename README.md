@@ -108,7 +108,7 @@
 - 酷安净化
 </span>
 
-    https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+    https://raw.githubusercontent.com/ZenmoFeiShi/Qx/main/KuAn.snippet
 - 百度网盘净化
 </span>
 
